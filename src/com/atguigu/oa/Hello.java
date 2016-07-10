@@ -9,6 +9,7 @@ public class Hello {
 		System.out.println("3333333333333");
 		System.out.println("444444444");
 		System.out.println("hello");
+		System.out.println("welcome to 0225");
 	}
 
 }
